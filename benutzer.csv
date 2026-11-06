@@ -1,0 +1,9 @@
+benutzer_id,name,abteilung,status,letzter_login,temp_rolle,temp_gueltig_bis
+U1001,Anna Beispiel,Einkauf,aktiv,2026-10-30,,
+U1002,Ben Muster,Lager,aktiv,2026-05-12,,
+U1003,Clara Test,Buchhaltung,aktiv,2026-10-02,Z_FI_ZAHLUNG_FREIGABE,2026-09-30
+U1004,David Probe,Einkauf,gesperrt,2025-12-01,,
+U1005,Eva Demo,Personal,aktiv,,,
+U1006,Felix Fake,Lager,aktiv,2026-11-01,Z_MM_INVENTUR,2026-12-31
+U1007,Gina Fiktiv,Vertrieb,aktiv,2026-07-15,Z_SD_PREISE_AENDERN,2026-08-15
+U1008,Hans Platzhalter,IT,aktiv,15.10.2026,,
